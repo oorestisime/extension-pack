@@ -1,0 +1,31 @@
+{
+  "publisher": "oorestisime",
+  "name": "oorestisime-pack",
+  "displayName": "oorestisime-pack",
+  "description": "Extension pack for oorestisime workflow",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.41.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/oorestisime/extension-pack"
+  },
+  "extensionPack": [
+    "naumovs.color-highlight",
+    "oderwat.indent-rainbow",
+    "2gua.rainbow-brackets",
+    "ow.vscode-subword-navigation",
+    "taniarascia.new-moon-vscode",
+    "formulahendry.auto-close-tag",
+    "ms-vscode-remote.remote-wsl",
+    "kumar-harsh.graphql-for-vscode",
+    "eamodio.gitlens",
+    "dbaeumer.vscode-eslint",
+    "esbenp.prettier-vscode",
+    "sdras.night-owl"
+  ]
+}
